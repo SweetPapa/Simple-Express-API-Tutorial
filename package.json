@@ -1,0 +1,24 @@
+{
+  "name": "express-api-example",
+  "version": "1.0.0",
+  "description": "Example scripts for building API's with express",
+  "main": "simple-api-example.js",
+  "scripts": {
+    "ex0": "node simple-api-example_basic",
+    "ex1": "node simple-api-example_1",
+    "ex2": "node simple-api-example_2",
+    "ex3": "node simple-api-example_3"
+  },
+  "keywords": [
+    "Express",
+    "Example",
+    "API",
+    "Boilerplate",
+    "NodeJS"
+  ],
+  "author": "Forrester Terry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
