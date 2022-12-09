@@ -13,6 +13,11 @@
 
 ---
 
+## Tutorial
+
+To get the most out of this repo, please read the following tutorial:
+https://fofocode.dev/article/?post=7
+
 ## API Documentation for the Tutorial
 
 
